@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167265549286",
+    "project_id": "fir-storage-app-a4adf",
+    "storage_bucket": "fir-storage-app-a4adf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167265549286:android:6d8de12ecc2daf7b113427",
+        "android_client_info": {
+          "package_name": "com.example.imageuploadapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167265549286-h7nht41m394k4rcpb52blgle6cabm2rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbdrwo-aCrmW0KelfFj_ne2LH9qoSmHeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167265549286-h7nht41m394k4rcpb52blgle6cabm2rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
